@@ -1,4 +1,4 @@
-### Larry Liu | LA CTF 2023 | Metaverse
+### Larry Liu | LA CTF 2023 | Metaverse | 2/14/2023
 
 LA CTF 2023 had a lot of well made Web challenges. In this writeup, I will be detailing how I solved their **Metaverse** Challenge. 
 
