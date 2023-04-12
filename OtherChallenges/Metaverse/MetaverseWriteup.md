@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:OtherChallenges/Metaverse/Metaverse Writeup.md
 ### Larry Liu | LA CTF 2023 | Metaverse | 2/14/2023 ###
-========
-### Larry Liu | LA CTF 2023 | Metaverse | 2/14/2023
->>>>>>>> 82fc23ecce5996f13e79d784486616865828dfb2:OtherChallenges/Metaverse/MetaverseWriteup.md
 
 LA CTF 2023 had a lot of well made Web challenges. In this writeup, I will be detailing how I solved their **Metaverse** Challenge. 
 

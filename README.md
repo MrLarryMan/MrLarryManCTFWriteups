@@ -3,7 +3,6 @@ My writeups regarding various CTF experiences I have had.
 
 # Contents
 
-<<<<<<< HEAD
 Challenges I've Made
 
 1. [UMassCTF 2023 | DeepFried](MyChallenges/DeepFried/DeepFried.md)
