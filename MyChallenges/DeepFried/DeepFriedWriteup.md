@@ -9,7 +9,8 @@ I wrote my first CTF challenge during UMassCTF 2023, a node express website with
 My challenge was a website where users could upload .jpg images to deepfry (Intentionally distort an image, such as by oversaturating it and adding noise). Users could either upload their own images from their system or submit urls. Upon submitting an image, it would be stored and users would then be prompted for a caption and then recieve their fried image in the form of a base64 encoded image rendered on the page. 
 
 <p align="center">
-<figure><img src="Images/DeepFriedScreenshot3.png" alt="Image3" width="75%"/><figcaption align = "center"><b>A Deep Fried image of a Funny Dog</b></figcaption></figure>
+<img src="Images/DeepFriedScreenshot3.png" alt="Image3" width="75%"/>
+<i>A Deep Fried image of a Funny Dog</i>
 </p>
 
 Upon inspection of the source code, we find a folder called restricted_memes. In it, there is a flag.jpg image.

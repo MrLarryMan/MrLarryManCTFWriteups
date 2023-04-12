@@ -5,7 +5,7 @@ My writeups regarding various CTF experiences I have had.
 
 Challenges I've Made
 
-1. [UMassCTF 2023 | DeepFried](MyChallenges/DeepFried/DeepFriedWriteUp.md)
+1. [UMassCTF 2023 | DeepFried](MyChallenges/DeepFried/DeepFriedWriteup.md)
 
 
 Challenges I've Done
